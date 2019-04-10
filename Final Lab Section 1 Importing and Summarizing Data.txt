@@ -1,5 +1,5 @@
 
-1. Importing and Summarizing Data
+Section 1: Importing and Summarizing Data
 
 #####Read and Explore your data#####
 
